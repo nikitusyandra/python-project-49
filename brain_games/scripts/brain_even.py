@@ -1,4 +1,3 @@
-
 import random
 import prompt
 from brain_games.cli import welcome_user
@@ -23,7 +22,8 @@ def even_game():
             print(f"'{otvet}' is wrong answer ;(. Correct answer was '{correct_answer}'.")
             print(f"Let's try again, {name}!")
             break
-    
+        if score == 3:  
+            print(f'Congratulations, {name}!')
 
 
 
