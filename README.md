@@ -61,3 +61,4 @@ Demonstration of brain-progression:
 [![asciicast](https://asciinema.org/a/6FtO0bzh8eQV28lGvk5WRFGXi.svg)](https://asciinema.org/a/6FtO0bzh8eQV28lGvk5WRFGXi)
 
 Demonstration of brain-prime:
+[![asciicast](https://asciinema.org/a/EjajWRLwOne1RAWL0FWEMT9VS.svg)](https://asciinema.org/a/EjajWRLwOne1RAWL0FWEMT9VS)
